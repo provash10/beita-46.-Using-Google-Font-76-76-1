@@ -1,0 +1,11 @@
+46. Using Google Font 76,76-1
+
+<link href="css/style.css" rel="stylesheet"/>
+
+======================================
+Google Search>>> Google font>>> Google Fonts: Browse Fonts
+use html and css
+============================================
+Using Google Font 77
+fonts.google.com
+================================
